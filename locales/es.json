@@ -1,0 +1,214 @@
+
+{
+  "header": {
+    "listeningTitle": "Escuchando comandos de voz...",
+    "toggleDarkMode": "Alternar modo oscuro"
+  },
+  "main": {
+    "title": "¿Qué hay en tu cocina?",
+    "subtitle": "Añade los ingredientes que tienes y nuestro chef de IA preparará algo mágico.",
+    "generateButton": "Generar Receta",
+    "generatingButton": "Conjurando..."
+  },
+  "ingredient": {
+    "qty": "Cant",
+    "qtyLabel": "Cantidad",
+    "unit": "Unidad",
+    "unitLabel": "Unidad",
+    "namePlaceholder": "ej. Pollo, Pimientos",
+    "nameLabel": "Nombre del ingrediente",
+    "addButton": "Añadir",
+    "analyzeImageTitle": "Analizar ingredientes de una imagen",
+    "analyzeImageLabel": "Analizar ingredientes de una imagen",
+    "useVoice": "Usar comandos de voz",
+    "stopListening": "Dejar de escuchar",
+    "voiceNotSupported": "Los comandos de voz no son compatibles con tu navegador",
+    "remove": "Eliminar"
+  },
+  "recipe": {
+    "errorTitle": "¡Vaya!",
+    "placeholderTitle": "Tu receta generada aparecerá aquí.",
+    "placeholderSubtitle": "¿Listo para una aventura culinaria?",
+    "imageAlt": "Un delicioso {{recipeName}}",
+    "addToFavorites": "Añadir a favoritos",
+    "removeFromFavorites": "Eliminar de favoritos",
+    "saveRecipe": "Guardar esta receta",
+    "recipeSaved": "Receta guardada",
+    "saved": "Guardado",
+    "save": "Guardar",
+    "prepTime": "Tiempo de prep.",
+    "cookTime": "Tiempo de cocción",
+    "calories": "Calorías",
+    "protein": "Proteína",
+    "carbs": "Carbohidratos",
+    "fat": "Grasa",
+    "rateThis": "¡Valora esta receta!",
+    "rateStars": "Valorar con {{count}} estrella(s)",
+    "ingredients": "Ingredientes",
+    "check": "Marcar",
+    "instructions": "Instrucciones",
+    "substitutionsTitle": "¿No tienes de todo?",
+    "substitutionsSubtitle": "Aquí tienes algunas sustituciones comunes que puedes probar.",
+    "for": "Para",
+    "try": "Prueba",
+    "or": "o",
+    "leftoversTitle": "Ideas creativas para las sobras",
+    "leftoversSubtitle": "¡No dejes que nada se desperdicie!"
+  },
+  "loading": {
+    "message": "Preparando una obra maestra..."
+  },
+  "footer": {
+    "poweredBy": "Impulsado por Gemini API",
+    "copyright": "IngredAI. Todos los derechos reservados."
+  },
+  "login": {
+    "signupSubtitle": "Crea una nueva cuenta para empezar.",
+    "loginSubtitle": "¡Bienvenido de nuevo! Por favor, inicia sesión.",
+    "username": "Nombre de usuario",
+    "age": "Edad",
+    "gender": "Género",
+    "select": "Seleccionar...",
+    "genders": {
+      "male": "Masculino",
+      "female": "Femenino",
+      "other": "Otro",
+      "preferNotToSay": "Prefiero no decirlo"
+    },
+    "nation": "Nación",
+    "language": "Idioma preferido",
+    "password": "Contraseña",
+    "signUpButton": "Registrarse",
+    "loginButton": "Iniciar sesión",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "promoTitle": "Descubre tu próxima comida",
+    "promoSubtitle": "Desbloquea un mundo de creatividad culinaria. Solo dinos qué ingredientes tienes y crearemos la receta perfecta para ti.",
+    "errors": {
+      "usernameRequired": "El nombre de usuario es obligatorio.",
+      "usernameLength": "El nombre de usuario debe tener al menos 3 caracteres.",
+      "usernameInvalid": "El nombre de usuario solo puede contener letras, números y guiones bajos.",
+      "ageRequired": "La edad es obligatoria.",
+      "ageInvalid": "Por favor, introduce una edad válida entre 1 y 120.",
+      "passwordRequired": "La contraseña es obligatoria.",
+      "passwordLength": "La contraseña debe tener al menos 8 caracteres.",
+      "passwordMustContain": "La contraseña debe contener al menos",
+      "passwordUppercase": "una letra mayúscula",
+      "passwordLowercase": "una letra minúscula",
+      "passwordNumber": "un número",
+      "passwordSpecial": "un carácter especial",
+      "genderRequired": "Por favor, selecciona un género.",
+      "nationRequired": "La nación es obligatoria.",
+      "languageRequired": "Por favor, selecciona un idioma."
+    }
+  },
+  "menu": {
+    "userMenu": "Menú de usuario",
+    "account": "Cuenta",
+    "savedRecipes": "Recetas guardadas",
+    "favorites": "Favoritos",
+    "security": "Seguridad",
+    "settings": "Ajustes",
+    "logout": "Cerrar sesión"
+  },
+  "account": {
+    "title": "Ajustes de la cuenta",
+    "profileTitle": "Información del perfil",
+    "email": "Dirección de correo electrónico",
+    "dangerZone": "Zona de peligro",
+    "deleteAccount": "Eliminar cuenta",
+    "deleteAccountWarning": "Elimina permanentemente tu cuenta y todos los datos asociados.",
+    "deleteConfirmTitle": "Confirmar eliminación de cuenta",
+    "deleteConfirmSubtitle": "Esta acción es irreversible. Para confirmar, por favor escribe {{text}} en el cuadro de abajo.",
+    "deleteConfirmationText": "ELIMINAR MI CUENTA"
+  },
+  "saved": {
+    "title": "Mi libro de recetas",
+    "emptyTitle": "Aún no has guardado ninguna receta.",
+    "emptySubtitle": "¡Genera una receta y haz clic en el botón de guardar para añadirla a tu libro de recetas!"
+  },
+  "favorites": {
+    "title": "Mis recetas favoritas",
+    "remove": "Eliminar de favoritos",
+    "emptyTitle": "Aún no has añadido ninguna receta a favoritos.",
+    "emptySubtitle": "¡Haz clic en el icono del corazón en una receta para añadirla a tus favoritos!"
+  },
+  "security": {
+    "title": "Seguridad",
+    "changePassword": "Cambiar contraseña",
+    "currentPassword": "Contraseña actual",
+    "newPassword": "Nueva contraseña",
+    "confirmNewPassword": "Confirmar nueva contraseña",
+    "updatePassword": "Actualizar contraseña",
+    "twoFactorAuth": "Autenticación de dos factores (2FA)",
+    "enable2FA": "Habilitar 2FA",
+    "twoFactorSubtitle": "Aumenta la seguridad de tu cuenta requiriendo un segundo paso de verificación.",
+    "loginHistory": "Historial de inicio de sesión",
+    "loginHistorySubtitle": "Este es un registro de los inicios de sesión recientes en tu cuenta. (Esto es una demostración y no son datos reales).",
+    "location": "Ubicación",
+    "today": "Hoy",
+    "yesterday": "Ayer"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "preferencesTitle": "Preferencias de recetas",
+    "dietaryPreference": "Preferencia dietética",
+    "diets": {
+      "none": "Ninguna",
+      "vegetarian": "Vegetariana",
+      "vegan": "Vegana",
+      "keto": "Keto",
+      "glutenPeanutFree": "Sin gluten y sin cacahuetes"
+    },
+    "skillLevel": "Nivel de habilidad",
+    "skills": {
+      "any": "Cualquiera",
+      "beginner": "Principiante"
+    },
+    "savePreferences": "Guardar preferencias",
+    "appearanceTitle": "Apariencia",
+    "theme": "Tema",
+    "currentTheme": "Tema actual",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "switchToDark": "Cambiar a oscuro",
+    "switchToLight": "Cambiar a claro",
+    "dataManagement": "Gestión de datos",
+    "clearData": "Borrar todos los datos de la aplicación",
+    "clearDataSubtitle": "Esto restablecerá la aplicación, eliminando todos los datos guardados.",
+    "confirmClearData": "¿Estás seguro? Esto eliminará todas tus recetas guardadas, favoritos y ajustes de perfil."
+  },
+  "common": {
+    "back": "Volver",
+    "saveChanges": "Guardar cambios",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "view": "Ver"
+  },
+  "feedback": {
+    "analyzingImage": "Analizando tu imagen...",
+    "addedIngredients": "Añadido(s)",
+    "noIngredientsFound": "No se encontraron ingredientes en la imagen.",
+    "listening": "Escuchando...",
+    "profileUpdated": "¡Información del perfil actualizada!",
+    "saveFailed": "Error al guardar los ajustes.",
+    "confirmationMismatch": "El texto de confirmación no coincide.",
+    "accountDeleted": "Cuenta eliminada con éxito.",
+    "deleteFailed": "Error al eliminar la cuenta.",
+    "fillAllFields": "Por favor, rellena todos los campos de contraseña.",
+    "passwordsNoMatch": "Las nuevas contraseñas no coinciden.",
+    "passwordChanged": "¡Contraseña cambiada con éxito!",
+    "twoFAEnabled": "Autenticación de dos factores habilitada",
+    "twoFADisabled": "Autenticación de dos factores deshabilitada",
+    "twoFAUpdateFailed": "No se pudo actualizar el estado de 2FA.",
+    "preferencesSaved": "¡Preferencias guardadas con éxito!",
+    "dataCleared": "Todos los datos de la aplicación han sido borrados.",
+    "clearFailed": "Error al borrar los datos."
+  },
+  "error": {
+    "addOneIngredient": "Por favor, añade al menos un ingrediente.",
+    "recipeGenerationFailed": "Error al generar la receta. La matriz culinaria es inestable. Por favor, inténtalo de nuevo.",
+    "imageAnalysisFailed": "Error al analizar la imagen. Por favor, inténtalo de nuevo.",
+    "generic": "Error"
+  }
+}

@@ -1,0 +1,16 @@
+
+{
+  "header": {
+    "listeningTitle": "वॉयस कमांड सुन रहा है...",
+    "toggleDarkMode": "डार्क मोड टॉगल करें"
+  },
+  "main": {
+    "title": "आपकी रसोई में क्या है?",
+    "subtitle": "आपके पास जो सामग्री है उसे जोड़ें, और हमारा AI शेफ कुछ जादुई बनाएगा।",
+    "generateButton": "रेसिपी बनाएं",
+    "generatingButton": "बना रहा है..."
+  },
+  "login": {
+    "language": "भाषा"
+  }
+}

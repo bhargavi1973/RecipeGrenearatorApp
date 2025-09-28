@@ -1,0 +1,214 @@
+
+{
+  "header": {
+    "listeningTitle": "Listening for voice commands...",
+    "toggleDarkMode": "Toggle dark mode"
+  },
+  "main": {
+    "title": "What's in Your Kitchen?",
+    "subtitle": "Add the ingredients you have, and our AI chef will whip up something magical.",
+    "generateButton": "Generate Recipe",
+    "generatingButton": "Conjuring..."
+  },
+  "ingredient": {
+    "qty": "Qty",
+    "qtyLabel": "Quantity",
+    "unit": "Unit",
+    "unitLabel": "Unit",
+    "namePlaceholder": "e.g., Chicken, Bell Peppers",
+    "nameLabel": "Ingredient Name",
+    "addButton": "Add",
+    "analyzeImageTitle": "Analyze ingredients from image",
+    "analyzeImageLabel": "Analyze ingredients from an image",
+    "useVoice": "Use voice commands",
+    "stopListening": "Stop listening",
+    "voiceNotSupported": "Voice commands not supported by your browser",
+    "remove": "Remove"
+  },
+  "recipe": {
+    "errorTitle": "Oops!",
+    "placeholderTitle": "Your generated recipe will appear here.",
+    "placeholderSubtitle": "Ready for a culinary adventure?",
+    "imageAlt": "A delicious looking {{recipeName}}",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "saveRecipe": "Save this recipe",
+    "recipeSaved": "Recipe saved",
+    "saved": "Saved",
+    "save": "Save",
+    "prepTime": "Prep Time",
+    "cookTime": "Cook Time",
+    "calories": "Calories",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "rateThis": "Rate this recipe!",
+    "rateStars": "Rate {{count}} star",
+    "ingredients": "Ingredients",
+    "check": "Check",
+    "instructions": "Instructions",
+    "substitutionsTitle": "Don't Have Everything?",
+    "substitutionsSubtitle": "Here are some common substitutions you can try.",
+    "for": "For",
+    "try": "Try",
+    "or": "or",
+    "leftoversTitle": "Creative Leftover Ideas",
+    "leftoversSubtitle": "Don't let anything go to waste!"
+  },
+  "loading": {
+    "message": "Brewing up a masterpiece..."
+  },
+  "footer": {
+    "poweredBy": "Powered by Gemini API",
+    "copyright": "IngredAI. All rights reserved."
+  },
+  "login": {
+    "signupSubtitle": "Create a new account to get started.",
+    "loginSubtitle": "Welcome back! Please sign in.",
+    "username": "Username",
+    "age": "Age",
+    "gender": "Gender",
+    "select": "Select...",
+    "genders": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other",
+      "preferNotToSay": "Prefer not to say"
+    },
+    "nation": "Nation",
+    "language": "Preferred Language",
+    "password": "Password",
+    "signUpButton": "Sign Up",
+    "loginButton": "Login",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "promoTitle": "Discover Your Next Meal",
+    "promoSubtitle": "Unlock a world of culinary creativity. Just tell us what ingredients you have, and we'll craft the perfect recipe for you.",
+    "errors": {
+      "usernameRequired": "Username is required.",
+      "usernameLength": "Username must be at least 3 characters long.",
+      "usernameInvalid": "Username can only contain letters, numbers, and underscores.",
+      "ageRequired": "Age is required.",
+      "ageInvalid": "Please enter a valid age between 1 and 120.",
+      "passwordRequired": "Password is required.",
+      "passwordLength": "Password must be at least 8 characters long.",
+      "passwordMustContain": "Password must contain at least",
+      "passwordUppercase": "an uppercase letter",
+      "passwordLowercase": "a lowercase letter",
+      "passwordNumber": "a number",
+      "passwordSpecial": "a special character",
+      "genderRequired": "Please select a gender.",
+      "nationRequired": "Nation is required.",
+      "languageRequired": "Please select a language."
+    }
+  },
+  "menu": {
+    "userMenu": "User menu",
+    "account": "Account",
+    "savedRecipes": "Saved Recipes",
+    "favorites": "Favorites",
+    "security": "Security",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "account": {
+    "title": "Account Settings",
+    "profileTitle": "Profile Information",
+    "email": "Email Address",
+    "dangerZone": "Danger Zone",
+    "deleteAccount": "Delete Account",
+    "deleteAccountWarning": "Permanently delete your account and all associated data.",
+    "deleteConfirmTitle": "Confirm Account Deletion",
+    "deleteConfirmSubtitle": "This action is irreversible. To confirm, please type {{text}} in the box below.",
+    "deleteConfirmationText": "DELETE MY ACCOUNT"
+  },
+  "saved": {
+    "title": "My Cookbook",
+    "emptyTitle": "You haven't saved any recipes yet.",
+    "emptySubtitle": "Generate a recipe and click the save button to add it to your cookbook!"
+  },
+  "favorites": {
+    "title": "My Favorite Recipes",
+    "remove": "Remove from favorites",
+    "emptyTitle": "You haven't favorited any recipes yet.",
+    "emptySubtitle": "Click the heart icon on a recipe to add it to your favorites!"
+  },
+  "security": {
+    "title": "Security",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updatePassword": "Update Password",
+    "twoFactorAuth": "Two-Factor Authentication (2FA)",
+    "enable2FA": "Enable 2FA",
+    "twoFactorSubtitle": "Increase your account security by requiring a second verification step.",
+    "loginHistory": "Login History",
+    "loginHistorySubtitle": "This is a record of recent sign-ins to your account. (This is a demo and not real data).",
+    "location": "Location",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "settings": {
+    "title": "Settings",
+    "preferencesTitle": "Recipe Preferences",
+    "dietaryPreference": "Dietary Preference",
+    "diets": {
+      "none": "None",
+      "vegetarian": "Vegetarian",
+      "vegan": "Vegan",
+      "keto": "Keto",
+      "glutenPeanutFree": "Gluten-Free & Peanut-Free"
+    },
+    "skillLevel": "Skill Level",
+    "skills": {
+      "any": "Any",
+      "beginner": "Beginner"
+    },
+    "savePreferences": "Save Preferences",
+    "appearanceTitle": "Appearance",
+    "theme": "Theme",
+    "currentTheme": "Current theme",
+    "light": "Light",
+    "dark": "Dark",
+    "switchToDark": "Switch to Dark",
+    "switchToLight": "Switch to Light",
+    "dataManagement": "Data Management",
+    "clearData": "Clear All App Data",
+    "clearDataSubtitle": "This will reset the application, deleting all saved data.",
+    "confirmClearData": "Are you sure? This will delete all your saved recipes, favorites, and profile settings."
+  },
+  "common": {
+    "back": "Back",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "view": "View"
+  },
+  "feedback": {
+    "analyzingImage": "Analyzing your image...",
+    "addedIngredients": "Added",
+    "noIngredientsFound": "Could not find any ingredients in the image.",
+    "listening": "Listening...",
+    "profileUpdated": "Profile information updated!",
+    "saveFailed": "Failed to save settings.",
+    "confirmationMismatch": "Confirmation text does not match.",
+    "accountDeleted": "Account deleted successfully.",
+    "deleteFailed": "Failed to delete account.",
+    "fillAllFields": "Please fill out all password fields.",
+    "passwordsNoMatch": "New passwords do not match.",
+    "passwordChanged": "Password changed successfully!",
+    "twoFAEnabled": "Two-Factor Authentication Enabled",
+    "twoFADisabled": "Two-Factor Authentication Disabled",
+    "twoFAUpdateFailed": "Could not update 2FA status.",
+    "preferencesSaved": "Preferences saved successfully!",
+    "dataCleared": "All application data has been cleared.",
+    "clearFailed": "Failed to clear data."
+  },
+  "error": {
+    "addOneIngredient": "Please add at least one ingredient.",
+    "recipeGenerationFailed": "Failed to generate recipe. The culinary matrix is unstable. Please try again.",
+    "imageAnalysisFailed": "Failed to analyze the image. Please try again.",
+    "generic": "Error"
+  }
+}

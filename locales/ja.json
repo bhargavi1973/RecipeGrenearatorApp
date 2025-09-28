@@ -1,0 +1,16 @@
+
+{
+  "header": {
+    "listeningTitle": "音声コマンドを待機中...",
+    "toggleDarkMode": "ダークモードに切り替え"
+  },
+  "main": {
+    "title": "キッチンには何がありますか？",
+    "subtitle": "お持ちの食材を追加すると、AIシェフが魔法のような料理を作ります。",
+    "generateButton": "レシピを生成",
+    "generatingButton": "生成中..."
+  },
+  "login": {
+    "language": "言語"
+  }
+}

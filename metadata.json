@@ -1,0 +1,8 @@
+{
+  "name": "IngredAI",
+  "description": "IngredAI generates creative recipes from the ingredients you have on hand, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

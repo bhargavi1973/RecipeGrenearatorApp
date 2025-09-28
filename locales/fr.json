@@ -1,0 +1,214 @@
+
+{
+  "header": {
+    "listeningTitle": "Écoute des commandes vocales...",
+    "toggleDarkMode": "Basculer en mode sombre"
+  },
+  "main": {
+    "title": "Qu'y a-t-il dans votre cuisine ?",
+    "subtitle": "Ajoutez les ingrédients que vous avez, et notre chef IA concoctera quelque chose de magique.",
+    "generateButton": "Générer une recette",
+    "generatingButton": "Préparation..."
+  },
+  "ingredient": {
+    "qty": "Qté",
+    "qtyLabel": "Quantité",
+    "unit": "Unité",
+    "unitLabel": "Unité",
+    "namePlaceholder": "ex: Poulet, Poivrons",
+    "nameLabel": "Nom de l'ingrédient",
+    "addButton": "Ajouter",
+    "analyzeImageTitle": "Analyser les ingrédients d'une image",
+    "analyzeImageLabel": "Analyser les ingrédients d'une image",
+    "useVoice": "Utiliser les commandes vocales",
+    "stopListening": "Arrêter l'écoute",
+    "voiceNotSupported": "Les commandes vocales ne sont pas prises en charge par votre navigateur",
+    "remove": "Retirer"
+  },
+  "recipe": {
+    "errorTitle": "Oups !",
+    "placeholderTitle": "Votre recette générée apparaîtra ici.",
+    "placeholderSubtitle": "Prêt pour une aventure culinaire ?",
+    "imageAlt": "Un délicieux {{recipeName}}",
+    "addToFavorites": "Ajouter aux favoris",
+    "removeFromFavorites": "Retirer des favoris",
+    "saveRecipe": "Enregistrer cette recette",
+    "recipeSaved": "Recette enregistrée",
+    "saved": "Enregistré",
+    "save": "Enregistrer",
+    "prepTime": "Temps de prép.",
+    "cookTime": "Temps de cuisson",
+    "calories": "Calories",
+    "protein": "Protéines",
+    "carbs": "Glucides",
+    "fat": "Lipides",
+    "rateThis": "Évaluez cette recette !",
+    "rateStars": "Noter {{count}} étoile(s)",
+    "ingredients": "Ingrédients",
+    "check": "Cocher",
+    "instructions": "Instructions",
+    "substitutionsTitle": "Vous n'avez pas tout ?",
+    "substitutionsSubtitle": "Voici quelques substitutions courantes que vous pouvez essayer.",
+    "for": "Pour",
+    "try": "Essayez",
+    "or": "ou",
+    "leftoversTitle": "Idées créatives pour les restes",
+    "leftoversSubtitle": "Ne gaspillez rien !"
+  },
+  "loading": {
+    "message": "Création d'un chef-d'œuvre..."
+  },
+  "footer": {
+    "poweredBy": "Propulsé par l'API Gemini",
+    "copyright": "IngredAI. Tous droits réservés."
+  },
+  "login": {
+    "signupSubtitle": "Créez un nouveau compte pour commencer.",
+    "loginSubtitle": "Content de vous revoir ! Veuillez vous connecter.",
+    "username": "Nom d'utilisateur",
+    "age": "Âge",
+    "gender": "Genre",
+    "select": "Sélectionner...",
+    "genders": {
+      "male": "Homme",
+      "female": "Femme",
+      "other": "Autre",
+      "preferNotToSay": "Préfère ne pas le dire"
+    },
+    "nation": "Nation",
+    "language": "Langue préférée",
+    "password": "Mot de passe",
+    "signUpButton": "S'inscrire",
+    "loginButton": "Se connecter",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?",
+    "promoTitle": "Découvrez votre prochain repas",
+    "promoSubtitle": "Débloquez un monde de créativité culinaire. Dites-nous simplement quels ingrédients vous avez, et nous créerons la recette parfaite pour vous.",
+    "errors": {
+      "usernameRequired": "Le nom d'utilisateur est requis.",
+      "usernameLength": "Le nom d'utilisateur doit comporter au moins 3 caractères.",
+      "usernameInvalid": "Le nom d'utilisateur ne peut contenir que des lettres, des chiffres et des traits de soulignement.",
+      "ageRequired": "L'âge est requis.",
+      "ageInvalid": "Veuillez entrer un âge valide entre 1 et 120.",
+      "passwordRequired": "Le mot de passe est requis.",
+      "passwordLength": "Le mot de passe doit comporter au moins 8 caractères.",
+      "passwordMustContain": "Le mot de passe doit contenir au moins",
+      "passwordUppercase": "une lettre majuscule",
+      "passwordLowercase": "une lettre minuscule",
+      "passwordNumber": "un chiffre",
+      "passwordSpecial": "un caractère spécial",
+      "genderRequired": "Veuillez sélectionner un genre.",
+      "nationRequired": "La nation est requise.",
+      "languageRequired": "Veuillez sélectionner une langue."
+    }
+  },
+  "menu": {
+    "userMenu": "Menu utilisateur",
+    "account": "Compte",
+    "savedRecipes": "Recettes enregistrées",
+    "favorites": "Favoris",
+    "security": "Sécurité",
+    "settings": "Paramètres",
+    "logout": "Se déconnecter"
+  },
+  "account": {
+    "title": "Paramètres du compte",
+    "profileTitle": "Informations sur le profil",
+    "email": "Adresse e-mail",
+    "dangerZone": "Zone de danger",
+    "deleteAccount": "Supprimer le compte",
+    "deleteAccountWarning": "Supprimez définitivement votre compte et toutes les données associées.",
+    "deleteConfirmTitle": "Confirmer la suppression du compte",
+    "deleteConfirmSubtitle": "Cette action est irréversible. Pour confirmer, veuillez taper {{text}} dans la case ci-dessous.",
+    "deleteConfirmationText": "SUPPRIMER MON COMPTE"
+  },
+  "saved": {
+    "title": "Mon livre de recettes",
+    "emptyTitle": "Vous n'avez encore enregistré aucune recette.",
+    "emptySubtitle": "Générez une recette et cliquez sur le bouton Enregistrer pour l'ajouter à votre livre de recettes !"
+  },
+  "favorites": {
+    "title": "Mes recettes préférées",
+    "remove": "Retirer des favoris",
+    "emptyTitle": "Vous n'avez encore mis aucune recette en favori.",
+    "emptySubtitle": "Cliquez sur l'icône en forme de cœur sur une recette pour l'ajouter à vos favoris !"
+  },
+  "security": {
+    "title": "Sécurité",
+    "changePassword": "Changer le mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmNewPassword": "Confirmer le nouveau mot de passe",
+    "updatePassword": "Mettre à jour le mot de passe",
+    "twoFactorAuth": "Authentification à deux facteurs (2FA)",
+    "enable2FA": "Activer la 2FA",
+    "twoFactorSubtitle": "Augmentez la sécurité de votre compte en exigeant une deuxième étape de vérification.",
+    "loginHistory": "Historique de connexion",
+    "loginHistorySubtitle": "Ceci est un enregistrement des connexions récentes à votre compte. (Ceci est une démo et non des données réelles).",
+    "location": "Lieu",
+    "today": "Aujourd'hui",
+    "yesterday": "Hier"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "preferencesTitle": "Préférences de recette",
+    "dietaryPreference": "Préférence alimentaire",
+    "diets": {
+      "none": "Aucune",
+      "vegetarian": "Végétarien",
+      "vegan": "Végétalien",
+      "keto": "Cétogène",
+      "glutenPeanutFree": "Sans gluten et sans arachides"
+    },
+    "skillLevel": "Niveau de compétence",
+    "skills": {
+      "any": "Tous",
+      "beginner": "Débutant"
+    },
+    "savePreferences": "Enregistrer les préférences",
+    "appearanceTitle": "Apparence",
+    "theme": "Thème",
+    "currentTheme": "Thème actuel",
+    "light": "Clair",
+    "dark": "Sombre",
+    "switchToDark": "Passer au mode sombre",
+    "switchToLight": "Passer au mode clair",
+    "dataManagement": "Gestion des données",
+    "clearData": "Effacer toutes les données de l'application",
+    "clearDataSubtitle": "Cela réinitialisera l'application, en supprimant toutes les données enregistrées.",
+    "confirmClearData": "Êtes-vous sûr ? Cela supprimera toutes vos recettes enregistrées, vos favoris et les paramètres de votre profil."
+  },
+  "common": {
+    "back": "Retour",
+    "saveChanges": "Enregistrer les modifications",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "view": "Voir"
+  },
+  "feedback": {
+    "analyzingImage": "Analyse de votre image...",
+    "addedIngredients": "Ajouté(s)",
+    "noIngredientsFound": "Aucun ingrédient trouvé dans l'image.",
+    "listening": "Écoute...",
+    "profileUpdated": "Informations du profil mises à jour !",
+    "saveFailed": "Échec de l'enregistrement des paramètres.",
+    "confirmationMismatch": "Le texte de confirmation ne correspond pas.",
+    "accountDeleted": "Compte supprimé avec succès.",
+    "deleteFailed": "Échec de la suppression du compte.",
+    "fillAllFields": "Veuillez remplir tous les champs de mot de passe.",
+    "passwordsNoMatch": "Les nouveaux mots de passe ne correspondent pas.",
+    "passwordChanged": "Mot de passe changé avec succès !",
+    "twoFAEnabled": "Authentification à deux facteurs activée",
+    "twoFADisabled": "Authentification à deux facteurs désactivée",
+    "twoFAUpdateFailed": "Impossible de mettre à jour le statut de la 2FA.",
+    "preferencesSaved": "Préférences enregistrées avec succès !",
+    "dataCleared": "Toutes les données de l'application ont été effacées.",
+    "clearFailed": "Échec de l'effacement des données."
+  },
+  "error": {
+    "addOneIngredient": "Veuillez ajouter au moins un ingrédient.",
+    "recipeGenerationFailed": "Échec de la génération de la recette. La matrice culinaire est instable. Veuillez réessayer.",
+    "imageAnalysisFailed": "Échec de l'analyse de l'image. Veuillez réessayer.",
+    "generic": "Erreur"
+  }
+}

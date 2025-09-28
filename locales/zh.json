@@ -1,0 +1,16 @@
+
+{
+  "header": {
+    "listeningTitle": "正在听取语音命令...",
+    "toggleDarkMode": "切换暗黑模式"
+  },
+  "main": {
+    "title": "你的厨房里有什么？",
+    "subtitle": "添加你有的食材，我们的人工智能厨师会为你烹制神奇的菜肴。",
+    "generateButton": "生成食谱",
+    "generatingButton": "生成中..."
+  },
+  "login": {
+    "language": "语言"
+  }
+}
